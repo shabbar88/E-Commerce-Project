@@ -7,7 +7,7 @@
  - [Data Sources](#data-sources) 📁
  - [Problem Statement](#problem-statement) ❓
  - [Tools](#Tools) 🛠️
- - [Data CLeaning/Data Preparartion](#data-cleaning/data-preparation)  🔨
+ - [Data CLeaning/Data Preparation](#data-cleaning/data-preparation)  🔨
  - [Data Analysis](#data-analysis)  🧮
  - [Results/Findings](#results/findings)  :suspect:
  - [Recommendation](#recommendation)  :basecamp:
