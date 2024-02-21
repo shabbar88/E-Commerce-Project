@@ -9,7 +9,7 @@
  - [Data Analysis](#data-analysis)
  - [Results/Findings](#results/findings)
  - [Recommendation](#recommendation)
- - [Project Files Location Links](#project-files-location-links:-)
+ - [Project Files Location Links](#project-files-location-links)
 ---
 ### Excel Dahboard Screenshot
 ![EXCEL DASHBOARD FINAL](https://github.com/shabbar88/E-Commerce-Project/assets/68353026/d026a014-4e69-46d1-9cc1-21ad7d8b845e)
@@ -215,7 +215,7 @@ Based on the analysis we recommend the following actions:-
   * 1> (Day Diff Bucket) should be 0-39 to provide customer satisfaction as maximum number of review score is genereated in this window only.
   * 2> Company should provide some sort of scheme for debit card customers in order to target the debit card customer to increase the sales.
 ---
-## Project Files Location Links:-
+## Project Files Location Links
  * E-Commerce Project.zip [Excel Files Here](https://drive.google.com/file/d/1w7Zxu1dSz9CZeqTtWzY_KDh2RpaQwlSE/view?usp=drive_link)
  * E-Commerce Data Analytics.pbix [PowerBi Files Here](https://drive.google.com/file/d/1w7Zxu1dSz9CZeqTtWzY_KDh2RpaQwlSE/view?usp=drive_link)
     
