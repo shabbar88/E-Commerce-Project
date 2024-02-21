@@ -7,11 +7,11 @@
  - [Data Sources](#data-sources) 📁
  - [Problem Statement](#problem-statement) ❓
  - [Tools](#Tools) 🛠️
- - [Data CLeaning/Data Preparartion](#data-cleaning/data-preparation) 🔨
- - [Data Analysis](#data-analysis) 🧮
- - [Results/Findings](#results/findings) :suspect:
- - [Recommendation](#recommendation) :basecamp:
- - [Project Files Location Links](#project-files-location-links) 📂
+ - [Data CLeaning/Data Preparartion](#data-cleaning/data-preparation)  🔨
+ - [Data Analysis](#data-analysis)  🧮
+ - [Results/Findings](#results/findings)  :suspect:
+ - [Recommendation](#recommendation)  :basecamp:
+ - [Project Files Location Links](#project-files-location-links)  📂
 ---
 ### Excel Dashboard Screenshot
 ![EXCEL DASHBOARD FINAL](https://github.com/shabbar88/E-Commerce-Project/assets/68353026/d026a014-4e69-46d1-9cc1-21ad7d8b845e)
