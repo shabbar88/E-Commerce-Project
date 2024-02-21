@@ -7,7 +7,7 @@
  - [Data Sources](#data-sources) 📁
  - [Problem Statement](#problem-statement) ❓
  - [Tools](#Tools) 🛠️
- - [Data CLeaning/Data Preparation](#data-cleaning/data-preparation)  
+ - [Data CLeaning](#data-cleaning) 🔨 
  - [Data Analysis](#data-analysis)  🧮
  - [Results/Findings](#results/findings)  :suspect:
  - [Recommendation](#recommendation)  :basecamp:
@@ -52,7 +52,7 @@ Primary Dataset used for this project Analysis is Olist store data containing de
  * Tableau
 ---
 
- ## Data Cleaning/Data Preparation 
+ ## Data Cleaning
  
  ##Data Cleaning done on Power Query Editor on both Excel and PowerBi
  In the initial data preparation phase we performed the following tasks:
