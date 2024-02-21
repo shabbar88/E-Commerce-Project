@@ -1,5 +1,10 @@
 # Olist Store Sales Project 💥
 ---
+## Table of Contents:-
+ - [Project Overview](#project-overview)
+ - [Data Sources](#data-sources)
+ - [Problem Statement](#problem-statement)
+ - [Tools](#Tools)
 ### **Project Overview**
 This Data Analytics Project aims to provide insights into the sales performance of an e-commerce olist store over the last few years. By analyzing various aspect of Sales Data , we seek to identify trends, make data driven recommendation
 and gain a deeper understanding of Companies Performance. In this Project I solved the various business related questions.
@@ -9,7 +14,7 @@ and gain a deeper understanding of Companies Performance. In this Project I solv
 Primary Dataset used for this project Analysis is Olist store data containing detailed information about the sales in the company.
 [Olist Data](https://drive.google.com/drive/u/0/folders/1uyEM3rM_bb7ljbkOmVwD9Ytof-hBYjZr)
 
-## **Problem Statement 😵**
+## **Problem Statement**
 
 
  * 1>Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
@@ -20,7 +25,7 @@ Primary Dataset used for this project Analysis is Olist store data containing de
  * 6>Top 5 Product Category By Payment Value
  * 7>Bottom 5 Product Category By Payment Value
 ---
-## Tools :hammer:
+## Tools
  * Microsoft Excel
  * Microsoft PowerBi
  * Mysql
@@ -189,7 +194,7 @@ Analysis results are summarized as follows:-
 Based on the analysis we recommend the following actions:-
   * 1> (Day Diff Bucket) should be 0-39 to provide customer satisfaction as maximum number of review score is genereated in this window only.
   * 2> Company should provide some sort of scheme for debit card customers in order to target the debit card customer to increase the sales.
-  * 
+    
     
 
 
