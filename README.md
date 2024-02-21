@@ -7,7 +7,7 @@ and gain a deeper understanding of Companies Performance. In this Project I solv
 
 ### Data Sources
 Primary Dataset used for this project Analysis is Olist store data containing detailed information about the sales in the company.
-![Olist Data]("https://drive.google.com/drive/u/0/folders/1uyEM3rM_bb7ljbkOmVwD9Ytof-hBYjZr")
+[Olist Data](https://drive.google.com/drive/u/0/folders/1uyEM3rM_bb7ljbkOmVwD9Ytof-hBYjZr)
 
 ## **Problem Statement**
 
