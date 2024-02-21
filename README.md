@@ -218,6 +218,7 @@ Based on the analysis we recommend the following actions:-
 ## Project Files Location Links
  * E-Commerce Project.zip [Excel Files Here](https://drive.google.com/file/d/1w7Zxu1dSz9CZeqTtWzY_KDh2RpaQwlSE/view?usp=drive_link)
  * E-Commerce Data Analytics.pbix [PowerBi Files Here](https://drive.google.com/file/d/1w7Zxu1dSz9CZeqTtWzY_KDh2RpaQwlSE/view?usp=drive_link)
+ * [All files relevant to this project available here](https://drive.google.com/file/d/1w7Zxu1dSz9CZeqTtWzY_KDh2RpaQwlSE/view?usp=drive_link)
     
     
 
