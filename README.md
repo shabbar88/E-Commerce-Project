@@ -175,6 +175,19 @@ on od.order_id=re.order_id group by DayDiff_Bucket,review_score;
  
  
  ```
+---
+### Results/Findings
+Analysis results are summarized as follows:-
+  * 1> Payment on Weekdays is 11.91 million dollars (77.21%) and Payment on Weekends is 3.51 million dollars (22.79%).
+  * 2> Number of Orders with review score 5 and payment type as credit is 44k.
+  * 3> Average number of days taken for order_delivered_customer_date for pet_shop is 11 days
+  * 4> Average price and payment values from customers of sao paulo are 107 dollar and 134 dollar.
+  * 5> Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp):- Count of maximum number of review score is generated when (Day Diff Bucket) is 0-39. As the (Day Diff Bucket) increases count of review scores decreases. So we can infer that (Day Diff Bucket) is inversely proportional to count of review scores.
+---
+
+
+
+
 
 
 
