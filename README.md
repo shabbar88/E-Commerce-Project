@@ -9,7 +9,20 @@
  - [Data Analysis](#data-analysis)
  - [Results/Findings](#results/findings)
  - [Recommendation](#recommendation)
+---
+### Excel Dahboard Screenshot
+![EXCEL DASHBOARD FINAL](https://github.com/shabbar88/E-Commerce-Project/assets/68353026/d026a014-4e69-46d1-9cc1-21ad7d8b845e)
+---
+
+
+### PowerBi Dashboard Screenshot
+![OLIST DASHBOARD-POWERBI-SCREENSHOT](https://github.com/shabbar88/E-Commerce-Project/assets/68353026/b8b4ede5-39f5-4cc1-8d87-a4785ad35bbc)
+---
+
+
+
 ### **Project Overview**
+---
 This Data Analytics Project aims to provide insights into the sales performance of an e-commerce olist store over the last few years. By analyzing various aspect of Sales Data , we seek to identify trends, make data driven recommendation
 and gain a deeper understanding of Companies Performance. In this Project I solved the various business related questions.
 ---
