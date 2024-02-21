@@ -18,8 +18,10 @@
 ---
 
 
-### PowerBi Dashboard Screenshot
-![OLIST DASHBOARD-POWERBI-SCREENSHOT](https://github.com/shabbar88/E-Commerce-Project/assets/68353026/b8b4ede5-39f5-4cc1-8d87-a4785ad35bbc)
+## PowerBi Dashboard Screenshot
+![POWERBI_DASHBOARD_SCREENSHOT_CURRENT](https://github.com/shabbar88/E-Commerce-Project/assets/68353026/f7ac4b32-14f0-4f0e-b1b4-b9342e573d13)
+
+
 ---
 
 
@@ -219,7 +221,7 @@ Based on the analysis we recommend the following actions:-
 ---
 ## Project Files Location Links
  * E-Commerce Project.zip [Excel Files Here](https://drive.google.com/file/d/1w7Zxu1dSz9CZeqTtWzY_KDh2RpaQwlSE/view?usp=drive_link)
- * E-Commerce Data Analytics.pbix [PowerBi Files Here](https://drive.google.com/file/d/1w7Zxu1dSz9CZeqTtWzY_KDh2RpaQwlSE/view?usp=drive_link)
+ * E-Commerce Data Analytics.pbix [PowerBi Files Here](https://drive.google.com/drive/u/0/folders/1uyEM3rM_bb7ljbkOmVwD9Ytof-hBYjZr)
  * [All files relevant to this project available here](https://drive.google.com/file/d/1w7Zxu1dSz9CZeqTtWzY_KDh2RpaQwlSE/view?usp=drive_link)
     
     
