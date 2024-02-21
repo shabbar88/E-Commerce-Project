@@ -185,6 +185,13 @@ Analysis results are summarized as follows:-
   * 5> Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp):- Count of maximum number of review score is generated when (Day Diff Bucket) is 0-39. As the (Day Diff Bucket) increases count of review scores decreases. So we can infer that (Day Diff Bucket) is inversely proportional to count of review scores.
 ---
 
+## Recommendation
+Based on the analysis we recommend the following actions:-
+  * 1> (Day Diff Bucket) should be 0-39 to provide customer satisfaction as maximum number of review score is genereated in this window only.
+  * 2> Company should provide some sort of scheme for debit card customers in order to target the debit card customer to increase the sales.
+  * 
+    
+
 
 
 
