@@ -1,4 +1,4 @@
-# Olist Store Sales Project 💥
+# Olist Store Sales Analytics 💥
 ---
 ## Table of Contents:-
  - [Excel Dashboard Screenshot](#excel-dashboard-screenshot)
