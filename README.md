@@ -9,7 +9,7 @@
  - [Tools](#Tools) 🛠️
  - [Data CLeaning](#data-cleaning) 🔨 
  - [Data Analysis](#data-analysis)  🧮
- - [Results/Findings](#results/findings)  :suspect:
+ - [Results](#results)  :suspect:
  - [Recommendation](#recommendation)  :basecamp:
  - [Project Files Location Links](#project-files-location-links)  📂
 ---
@@ -203,7 +203,7 @@ on od.order_id=re.order_id group by DayDiff_Bucket,review_score;
  
  ```
 ---
-### Results/Findings
+### Results
 Analysis results are summarized as follows:-
   * 1> Payment on Weekdays is 11.91 million dollars (77.21%) and Payment on Weekends is 3.51 million dollars (22.79%).
   * 2> Number of Orders with review score 5 and payment type as credit is 44k.
