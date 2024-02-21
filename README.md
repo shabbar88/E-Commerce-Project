@@ -23,7 +23,11 @@
 
 
 ---
+### PowerBi Dashboard pdf
 
+
+[E-Commerce Data Analytics.pdf](https://github.com/shabbar88/E-Commerce-Project/files/14363194/E-Commerce.Data.Analytics.4.pdf)
+---
 
 
 ### **Project Overview**
