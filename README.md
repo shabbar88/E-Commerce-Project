@@ -9,7 +9,7 @@ and gain a deeper understanding of Companies Performance. In this Project I solv
 Primary Dataset used for this project Analysis is Olist store data containing detailed information about the sales in the company.
 [Olist Data](https://drive.google.com/drive/u/0/folders/1uyEM3rM_bb7ljbkOmVwD9Ytof-hBYjZr)
 
-## **Problem Statement**
+## **Problem Statement 😵**
 
 
  * 1>Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
@@ -19,6 +19,8 @@ Primary Dataset used for this project Analysis is Olist store data containing de
  * 5>Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
  * 6>Top 5 Product Category By Payment Value
  * 7>Bottom 5 Product Category By Payment Value
+---
+## Tools :hammer:
 
 
 
