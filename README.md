@@ -1,6 +1,8 @@
 # Olist Store Sales Project 💥
 ---
 ## Table of Contents:-
+ - [Excel Dashboard Screenshot](#excel-dashboard-screenshot)
+ - [PowerBi Dahboard Screenshot](#powerbi-dashboard-screenshot)
  - [Project Overview](#project-overview) 🧑‍💻
  - [Data Sources](#data-sources) 📁
  - [Problem Statement](#problem-statement) ❓
