@@ -21,6 +21,10 @@ Primary Dataset used for this project Analysis is Olist store data containing de
  * 7>Bottom 5 Product Category By Payment Value
 ---
 ## Tools :hammer:
+ * Microsoft Excel
+ * Microsoft PowerBi
+ * Mysql
+ * Tableau
 
 
 
