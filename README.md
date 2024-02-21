@@ -35,7 +35,7 @@ Primary Dataset used for this project Analysis is Olist store data containing de
  * Removing Blank Rows.
 ---
 ## Data Analysis 
- Include some code features worked with sql - 
+ 🧑‍🔧 Include some code features worked with sql - 
  ``` sql
     USE OLIST;
 
