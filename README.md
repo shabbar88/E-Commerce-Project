@@ -3,6 +3,7 @@
 ## Table of Contents:-
  - [Excel Dashboard Screenshot](#excel-dashboard-screenshot) 📷
  - [PowerBi Dahboard Screenshot](#powerbi-dashboard-screenshot) 📷
+ - [Tableau Dahboard Screenshot](#tableau-dashboard-dashboard) 📷
  - [Project Overview](#project-overview) 🧑‍💻
  - [Data Sources](#data-sources) 📁
  - [Problem Statement](#problem-statement) ❓
@@ -23,6 +24,11 @@
 
 
 ---
+## Tableau Dahboard Screenshot
+![Olist_dashboard_tableau](https://github.com/shabbar88/E-Commerce-Project/assets/68353026/37ea5461-9fdf-40a6-8ce0-cc5a08aa7804)
+
+---
+
 
 ### **Project Overview**
 ---
