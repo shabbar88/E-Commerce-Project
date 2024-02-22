@@ -227,6 +227,7 @@ Based on the analysis we recommend the following actions:-
  * E-Commerce Project.zip [Excel Files Here](https://drive.google.com/file/d/1w7Zxu1dSz9CZeqTtWzY_KDh2RpaQwlSE/view?usp=drive_link)
  * E-Commerce Data Analytics.pbix [PowerBi Files Here](https://drive.google.com/drive/u/0/folders/1uyEM3rM_bb7ljbkOmVwD9Ytof-hBYjZr)
  * [All files relevant to this project available here](https://drive.google.com/drive/u/0/folders/1uyEM3rM_bb7ljbkOmVwD9Ytof-hBYjZr)
+ * [E Commerce Project1 Tableau Dashboard Here](https://public.tableau.com/views/E-CommerceProject1/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
     
     
 
