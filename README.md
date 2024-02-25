@@ -25,7 +25,8 @@
 
 ---
 ## Tableau Dashboard Screenshot
-![Olist_dashboard_tableau](https://github.com/shabbar88/E-Commerce-Project/assets/68353026/37ea5461-9fdf-40a6-8ce0-cc5a08aa7804)
+![tableau_dashboard_screenshot](https://github.com/shabbar88/E-Commerce-Project/assets/68353026/5de320ed-48ef-4fd2-9575-577c601a5aa0)
+
 
 ---
 
